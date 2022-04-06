@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnriqueSource
 - 👀 I’m interested in Web developed
-- 🌱 I’m currently learning JavaScript und Games in HTML5
+- 🌱 I’m currently learning JavaScript, Games in HTML5 and Fullstack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
