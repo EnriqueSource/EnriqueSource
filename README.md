@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnriqueSource
 - 👀 I’m interested in Web development and software engineering
-- 🌱 I’m currently learning JavaScript, Fullstack development and Games in HTML5
+- 🌱 I’m currently learning JavaScript, ReactJS, Fullstack development and Games in HTML5
 - 💞️ "Mozilla Developer Network Web Docs" Contributor
 - 📫 How to reach me: enriqueml@blogdeenrique.com
 - 📒 https://www.blogdeenrique.com
