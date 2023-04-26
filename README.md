@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @EnriqueSource
-- 👀 I’m interested in Web developed
-- 🌱 I’m currently learning JavaScript, Games in HTML5 and Fullstack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web development and software engineering
+- 🌱 I’m currently learning JavaScript, Fullstack development and Games in HTML5
+- 💞️ "Mozilla Developer Network Web Docs" Contributor
+- 📫 How to reach me: enriqueml@blogdeenrique.com
+- 📒 https://www.blogdeenrique.com
 
 <!---
 EnriqueSource/EnriqueSource is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
