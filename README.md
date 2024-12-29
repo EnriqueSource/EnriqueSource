@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnriqueSource
-- 👀 I’m interested in Web development and software engineering
+- 👀 I’m interested in software engineering and Web development
 - 🌱 I’m currently learning Rust and Web development
 - 📫 How to reach me: enriqueml@blogdeenrique.com
 - 📒 https://www.blogdeenrique.com
